@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "id": 5,
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Interview",
+      "type": "Part-Time",
+      "date": "10/3/2024"
+    },
+    {
+      "id": "a2d67d17-1047-4d8e-81cb-b92e502377db",
+      "position": "software developer",
+      "company": "microsoft",
+      "location": "New York/ USA",
+      "status": "In Progress",
+      "type": "Part-Time",
+      "date": "15.12.2024"
+    }
+  ]
+}

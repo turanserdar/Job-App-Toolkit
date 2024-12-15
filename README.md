@@ -23,15 +23,15 @@ Responsive Design: Optimized for mobile, tablet, and desktop devices.
 # Technologies Used
 This project leverages the following libraries and tools:
 
-React.js: Component-based UI development.
-React Router DOM: Dynamic navigation and routing.
-Axios: Simplified API requests.
-React-Toastify: User-friendly notifications.
-SASS: For clean and maintainable styling.
-React-Redux & @reduxjs/toolkit: State management and efficient data flow.
-JSON Server: Mock backend to simulate API functionality.
-UUID: Generates unique IDs for job entries.
-React Icons: Beautiful and customizable icons.
+- React.js: Component-based UI development.
+- React Router DOM: Dynamic navigation and routing.
+- Axios: Simplified API requests.
+- React-Toastify: User-friendly notifications.
+- SASS: For clean and maintainable styling.
+- React-Redux & @reduxjs/toolkit: State management and efficient data flow.
+- JSON Server: Mock backend to simulate API functionality.
+- UUID: Generates unique IDs for job entries.
+- React Icons: Beautiful and customizable icons.
 
 # Contact
 For any inquiries, suggestions, or feedback, feel free to reach out:
